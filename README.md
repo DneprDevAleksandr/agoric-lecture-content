@@ -1,4 +1,4 @@
-# Chainboard Academy Agoric Bootcamp
+# Chainboard Academy Agoric Bootcamp !!!!
 We will be updating this repository with our lecture content as we deliver the lectures.
 
 ## Course Overview
